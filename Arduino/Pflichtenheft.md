@@ -1,7 +1,3 @@
-
-
-
-
 # <u>RoboArm</u>
 
 #### Daniel Lanzerstorfer, David Mitterlehner
@@ -11,8 +7,6 @@
      3-Achsen Roboter mit modularem Aufsatz bauen und per Arudino und     Drehpotentiometer steuern
 
     Falls Zeit übrig und funktionierender Elektronik zusätzlich eine Website über die man     den Roboter  bzw. die eingebauten Motoren steuern kann
-
-
 
 ## Aufgabe
 
@@ -27,8 +21,6 @@
 -  Arudino Progamm schreiben um die Motoren anzusteuern
 
 - Bau der Elektronik und Zusammenschließung der Elektronik
-
-
 
 ## Materialliste:
 
@@ -46,18 +38,8 @@
 
 - 3D-Drucker 
 
-
-
 ## Entwicklungsumgebung
 
 - Arduino IDE (C-Programm)
 
 - OnShape (Konstruieren des Armes)
-
-
-
-
-
-
-
-
